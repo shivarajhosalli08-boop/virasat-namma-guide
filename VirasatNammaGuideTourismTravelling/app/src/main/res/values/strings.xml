@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Virasat Namma Guide</string>
+    <string name="welcome_message">Welcome to Virasat Namma Guide</string>
+    <string name="login">Login</string>
+    <string name="signup">Sign Up</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="chat_assistant">AI Chat Assistant</string>
+    <string name="explore">Explore</string>
+    <string name="itinerary_planner">Itinerary Planner</string>
+</resources>

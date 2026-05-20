@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "126403739860",
+    "project_id": "com-example-virasatnamma-6ff27",
+    "storage_bucket": "com-example-virasatnamma-6ff27.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:126403739860:android:c943fb7e3685deae1dbb41",
+        "android_client_info": {
+          "package_name": "com.example.virasatnammaguidetourismtravelling"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC6KRvY0Y4LRc3v0TSrevAqocrD24s0t-c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
